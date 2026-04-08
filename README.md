@@ -1,14 +1,14 @@
 ## Hi!
 
-I'm Jeramie, a web-developer/software-engineer based in the Philippines.
+I'm Jeramie, a web developer/software engineer based in the Philippines.
 
-I recently get back in to web development to pursue my passion in development.
+I recently got back into web developement to pursue my passion for building and problem-solving.
 
-I like to think on how do things work and how I can translate them into code.
+I enjoy understanding how things work and translating that into code.
 
-My main stack now is react, javascript, tailwind. But I'm planning to relearn java and Springboot. 
+My current stack includes React, Javascript, Tailwind CSS. I'm also planning to revisit Java and Spring Boot.
 
-You can reach me at 
+You can reach me at:
 
 - 📧 santos.jeramiepaul.r@gmail.com
 
