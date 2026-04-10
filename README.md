@@ -12,8 +12,6 @@ You can reach me at:
 
 - 📧 santos.jeramiepaul.r@gmail.com
 
-- 📞 +63-969-114-3602
-
 <!--
 **jeramie-santos/jeramie-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
