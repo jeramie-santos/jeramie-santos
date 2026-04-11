@@ -12,6 +12,8 @@ You can reach me at:
 
 - 📧 santos.jeramiepaul.r@gmail.com
 
+My Portfolio: https://portfolio-2026-two-eosin.vercel.app/
+
 <!--
 **jeramie-santos/jeramie-santos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
