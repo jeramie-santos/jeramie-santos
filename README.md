@@ -6,7 +6,7 @@ I recently got back into web developement to pursue my passion for building and 
 
 I enjoy understanding how things work and translating that into code.
 
-My current stack includes React, Javascript, Tailwind CSS. I'm also planning to revisit Java and Spring Boot.
+My current stack includes React, Javascript, Tailwind CSS, Express, Node.js.
 
 You can reach me at:
 
